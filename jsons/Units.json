@@ -89,6 +89,8 @@
 		"requiredResource": "Aluminum",
 		"uniques": ["[+50]% Strength <vs [Armored] units>",
 			"[40]% chance to intercept air attacks",
+   "May travel on Water tiles without embarking",
+   "Can pass through impassable tiles",
 			"No defensive terrain bonus",
 			"Can move after attacking",
 			"All tiles cost 1 movement",
